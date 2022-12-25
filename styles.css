@@ -1,0 +1,25 @@
+img{
+  width:50%;
+  height: 50%;
+}
+.main{
+  padding: 3% 40%;
+  background-color: black;
+}
+.container-fluid{
+  background-color: black;
+
+}
+h1{
+  color: white;
+}
+p{
+  color: white;
+
+  padding-left: 20px;
+}
+h4{
+  color: white;
+  padding-left: 20px;
+  padding-bottom: 2px;
+}
